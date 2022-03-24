@@ -4,7 +4,7 @@ Automatically log in by compiling the generated `.exe` file
 
 ## Try it out!
 
-* Suppose you have prepared the `node` environment
+Suppose you have prepared the `node` environment
 
 ### clone and install
 
@@ -25,7 +25,7 @@ module.exports = {
 }
 ```
 
-### Build exe
+### Generate exe program
 
 Just run:
 
