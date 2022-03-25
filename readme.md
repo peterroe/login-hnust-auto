@@ -6,7 +6,7 @@ Automatically log in by compiling the generated `.exe` file
 
 Suppose you have prepared the `node` environment
 
-### clone and install
+### Clone and install
 
 ```shell
 $ git clone https://github.com/peterroe/login-hnust-auto.git
@@ -14,7 +14,7 @@ $ cd login-hnust-auto
 $ pnpm i  # or npm i
 ```
 
-### config your account
+### Config your account
 
 edit `src/config.js`:
 
